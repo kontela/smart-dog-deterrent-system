@@ -1,0 +1,8 @@
+
+train: /content/dog/images/train
+val: /content/dog/images/val
+
+
+# Classes
+Nc: 1
+names: ['dog']
