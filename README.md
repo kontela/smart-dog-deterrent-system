@@ -23,7 +23,7 @@ Copyright (C) 2024 Bilge Urçuk, Erman Utku Avşar, Görkem Gümüşboğa
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Also add information on how to contact you by electronic and paper mail.
+You can reach us from bilgeurcukk@gmail.com
 
 ## Installation
 To set up this project, follow these steps:
